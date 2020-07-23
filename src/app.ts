@@ -51,7 +51,7 @@ class App {
                     console.log(err)
                 }else{
                     console.log("DataBase is Connected Successfully!");
-                }           
+                }         
             });
             cnn.on("disconnected",function(err,res){
                 if(err){
