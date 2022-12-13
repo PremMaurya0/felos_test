@@ -23,7 +23,7 @@
     "@types/underscore": "^1.9.4",
     "bcryptjs": "^2.4.3",
     "cryptr": "^4.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
     "mongoose": "^5.5.15",
